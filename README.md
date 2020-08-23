@@ -1,2 +1,2 @@
-# pin-generator
+# pin-mactcher
 pin-generator live website
